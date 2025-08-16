@@ -40,9 +40,11 @@ I'm particularly interested in building robust and secure APIs that enable integ
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianMHDev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
+<br>
+
   <div align='center' style="display: flex;justify-content: center;align-items: center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TianMHDev&theme=dark&hide_border=true"/>
+    <img style="width: 48%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style="width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=TianMHDev&theme=dark&hide_border=true"/>
   </div>
 	
   <h3><string> My Social networks </string> </h3>
