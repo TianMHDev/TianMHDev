@@ -36,15 +36,14 @@ I'm particularly interested in building robust and secure APIs that enable integ
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /><a>&nbsp;&nbsp;
 					<p/>	
 						
-   <p align="center">
-      <a href="https://github.com/TianMHDev">
+   <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianMHDev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
+</div>
   <div align='center' style="display: flex;justify-content: center;align-items: center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TianMHDev&theme=dark&hide_border=true"/>
-<div/>
+  </div>
 	
   <h3><string> My Social networks </string> </h3>
     <p>
