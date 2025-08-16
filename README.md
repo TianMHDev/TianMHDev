@@ -21,7 +21,8 @@ I'm particularly interested in building robust and secure APIs that enable integ
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <h3>My Development Tool Belt 🛠</h3>
-        <a href="https://git-scm.com/" target="_blank"><img
+       <p>
+		    <a href="https://git-scm.com/" target="_blank"><img
                 src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://github.com/jcomte23" target="_blank"><img
                 src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
@@ -32,22 +33,19 @@ I'm particularly interested in building robust and secure APIs that enable integ
         <a href="https://getbootstrap.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>&nbsp;&nbsp;
-    </p>
-    
-<p align="center">
-  <a href="https://github.com/TianMHDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/TianMHDev">
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /><a>&nbsp;&nbsp;
+					<p/>	
+						
+   <p align="center">
+      <a href="https://github.com/TianMHDev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianMHDev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
+  <div align='center' style="display: flex;justify-content: center;align-items: center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TianMHDev&theme=dark&hide_border=true"/>
-</p>
-
+<div/>
+	
   <h3><string> My Social networks </string> </h3>
     <p>
         <a href="https://x.com/TianMHDev" target="_blank"><img
