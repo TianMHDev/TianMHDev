@@ -11,15 +11,6 @@ I'm a software developer in training with a focus on backend development, passio
 I have experience in frontend and backend development, as well as database design and optimization.
 I'm particularly interested in building robust and secure APIs that enable integration between different components and facilitate the development of complete applications.
 
-
-
-###  &nbsp;My Programming Languages 🛠
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
 <h3>My Development Tool Belt 🛠</h3>
        <p>
 		    <a href="https://git-scm.com/" target="_blank"><img
@@ -35,6 +26,14 @@ I'm particularly interested in building robust and secure APIs that enable integ
         <a href="https://tailwindcss.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /><a>&nbsp;&nbsp;
 					<p/>	
+
+
+###  &nbsp;My Programming Languages 🛠
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 						
    <div align="center">
     <img style="width: 40%;"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianMHDev&layout=compact&langs_count=8&theme=algolia"/>
