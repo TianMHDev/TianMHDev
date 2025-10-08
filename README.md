@@ -47,11 +47,6 @@ I'm particularly interested in building robust and secure APIs that enable integ
     <img style="width: 48%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianMHDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img style="width: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=TianMHDev&theme=dark&hide_border=true"/>
   </div>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/TianMHDev/snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation dark mode" />
-</p>
-
-	
   <h3><string> My Social networks </string> </h3>
     <p>
         <a href="https://x.com/TianMHDev" target="_blank"><img
