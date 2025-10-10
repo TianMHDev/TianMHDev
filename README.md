@@ -54,6 +54,6 @@ I'm particularly interested in building robust and secure APIs that enable integ
     <p>
         <a href="https://x.com/TianMHDev" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=TianMHDev&color=000000&logo=X&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.linkedin.com/in/sebastian-marriaga-hoyos-7bb808389/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
